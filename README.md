@@ -1,2 +1,2 @@
 # Evento
-Ativida feita em C#
+Atividade feita em C#
