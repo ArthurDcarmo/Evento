@@ -1,0 +1,92 @@
+🔹 1. Definir as Classes do Sistema
+
+Você vai precisar de pelo menos duas classes:
+
+    Pessoa
+
+    Evento
+
+Cada uma com seus atributos e métodos específicos.
+
+Pessoa
+
+    Atributos: Nome, Endereço, Idade
+
+    Pode ter um construtor para facilitar o cadastro
+
+Evento
+
+    Atributos: Nome, Local, Valor, Lista de Pessoas
+
+    Método para adicionar pessoas (com limite de 20)
+
+    Método para verificar se é pago ou gratuito
+
+🔹 2. Criar o Menu Principal
+
+Você pode usar um while com switch para fazer um menu como:
+
+1 - Cadastrar pessoa
+2 - Cadastrar evento
+3 - Adicionar pessoa em evento
+4 - Listar eventos
+5 - Sair
+
+Cada opção vai chamar um método diferente.
+🔹 3. Cadastrar Pessoa
+
+    Solicite Nome, Endereço e Idade
+
+    Crie um objeto da classe Pessoa
+
+    Armazene em uma List<Pessoa> global ou passada entre métodos
+
+🔹 4. Cadastrar Evento
+
+    Solicite Nome e Local
+
+    Pergunte: “O evento será pago? (s/n)”
+
+        Se "s", peça o valor
+
+        Se "n", defina o valor como 0
+
+    Crie um objeto da classe Evento com uma lista de pessoas inicialmente vazia
+
+    Armazene em uma List<Evento>
+
+🔹 5. Adicionar Pessoa em Evento
+
+    Liste os eventos disponíveis com índices
+
+    Peça para o usuário escolher um evento
+
+    Liste as pessoas disponíveis com índices
+
+    Peça para escolher a pessoa
+
+    Adicione a pessoa no evento, verificando se já há 20 pessoas
+
+        Se sim, avise que o limite foi atingido
+
+🔹 6. Listar Eventos e Participantes
+
+    Percorra a lista de eventos
+
+    Mostre nome, local, valor
+
+    Liste as pessoas cadastradas no evento
+
+🔹 7. Tratamento de Erros e Validações
+
+    Verifique se os dados são válidos (idade > 0, valor >= 0, etc.)
+
+    Verifique se o evento já está cheio antes de adicionar uma nova pessoa
+
+🔹 8. Organização do Código
+
+    Separe seu código em métodos: CadastrarPessoa, CadastrarEvento, etc.
+
+    Use boas práticas como nome de variáveis claros e comentários
+
+Quer ajuda para estruturar as classes ou o menu inicial?

@@ -1,0 +1,14 @@
+/home/arthur/Documents/Catv/bin/Debug/net9.0/Catv
+/home/arthur/Documents/Catv/bin/Debug/net9.0/Catv.deps.json
+/home/arthur/Documents/Catv/bin/Debug/net9.0/Catv.runtimeconfig.json
+/home/arthur/Documents/Catv/bin/Debug/net9.0/Catv.dll
+/home/arthur/Documents/Catv/bin/Debug/net9.0/Catv.pdb
+/home/arthur/Documents/Catv/obj/Debug/net9.0/Catv.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/Documents/Catv/obj/Debug/net9.0/Catv.AssemblyInfoInputs.cache
+/home/arthur/Documents/Catv/obj/Debug/net9.0/Catv.AssemblyInfo.cs
+/home/arthur/Documents/Catv/obj/Debug/net9.0/Catv.csproj.CoreCompileInputs.cache
+/home/arthur/Documents/Catv/obj/Debug/net9.0/Catv.dll
+/home/arthur/Documents/Catv/obj/Debug/net9.0/refint/Catv.dll
+/home/arthur/Documents/Catv/obj/Debug/net9.0/Catv.pdb
+/home/arthur/Documents/Catv/obj/Debug/net9.0/Catv.genruntimeconfig.cache
+/home/arthur/Documents/Catv/obj/Debug/net9.0/ref/Catv.dll
