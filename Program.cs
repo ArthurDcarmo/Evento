@@ -3,7 +3,7 @@
     static void Main()
     {
         
-        Pessoa pessoa1 = new Pessoa("Juba", "Entroncamento",19);
+        Pessoa pessoa1 = new Pessoa("Juba", "Ilha",19);
         Pessoa pessoa2 = new Pessoa("Diego", "Ilha", 20);
        
         Console.Write("Nome do evento: ");
